@@ -1,0 +1,11 @@
+bin/
+gen/
+*.class
+*.swp
+*~
+*#
+.#*
+*.swo
+.DS_Store
+local.properties
+
